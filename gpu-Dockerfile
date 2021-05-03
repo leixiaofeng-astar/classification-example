@@ -1,0 +1,9 @@
+FROM nvidia/cuda:10.1-base
+
+RUN mkdir /app
+
+ADD . /app/
+
+WORKDIR /app
+
+CMD ["nvidia-smi"]
