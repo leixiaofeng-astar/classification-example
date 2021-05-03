@@ -1,5 +1,5 @@
 # classification-example
-This is a good example code for the new beginner for the AI classification model
+This is an example code for the new beginner for the AI classification model
 
 ## Requirements
 - Python 3
